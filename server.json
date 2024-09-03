@@ -31,6 +31,22 @@
       "category": "Alimentação",
       "price": 3200,
       "createdAt": "2024-09-06T00:00:00.000Z"
+    },
+    {
+      "description": "Internet",
+      "price": 120,
+      "category": "contas",
+      "type": "outcome",
+      "createdAt": "2024-09-03T16:09:57.033Z",
+      "id": 5
+    },
+    {
+      "description": "Placa mae",
+      "price": 400,
+      "category": "Pc",
+      "type": "outcome",
+      "createdAt": "2024-09-03T16:27:48.728Z",
+      "id": 6
     }
   ]
 }
